@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: memo-api
+logging:
+  level:
+    org.springframework.web: debug
